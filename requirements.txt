@@ -1,0 +1,15 @@
+# Development tools
+black           # Code formatting
+flake8         # Code linting
+pytest         # Testing
+pytest-cov     # Test coverage
+
+# Core functionality
+numpy          # Numerical operations
+pillow         # Image processing
+opencv-python  # Image/Video processing
+
+# AI/ML (initial packages)
+torch          # Machine Learning
+onnx           # Model optimization
+onnxruntime    # Model runtime
